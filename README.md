@@ -1,5 +1,7 @@
 # Bayesian-Network-for-predicting-heart-disease
 
+This Bayesian Ntwork file is developed in and will work in GeNie Software
+
 ## Description:
 Following is a simplified description of causal relationships of heart disease amongst patients.
 Heart diseases can be caused by a number of factors. One such factor is high blood pressure,
